@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "devDependencies": {
+    "@vue/runtime-dom": "3.2.19",
+    "typescript": "4.4.3",
+    "vue-tsc": "0.3.0"
+  },
+  "dependencies": {
+    "@vue/composition-api": "1.2.2",
+    "vue": "2.6.14"
+  }
+}
